@@ -4,7 +4,7 @@
 <channel>
 <name>[COLOR green][/COLOR][COLOR green][/COLOR][COLOR Blue][/COLOR] [COLOR yellow] ENTRE NO TEADDON [/COLOR] [COLOR gree][/COLOR][COLOR  green][/COLOR][COLOR green][/COLOR]</name> 
 <thumbnail>https://ia902805.us.archive.org/26/items/fanart_20240728/Icon.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/TEAddon/ENTRADA/main/CATEGORIA</externallink>
+<externallink>https://raw.githubusercontent.com/teateaddon/ENTRADA/refs/heads/main/CATEGORIA</externallink>
 <fanart></fanart>
 <info>
 [COLOR yellow][/COLOR] - TODO CONTEÚDO DESSE EDDONS FOI EXTRAÍDO DENTRO DA GOOGLE, OU SEJA, ESTA VIA DOMÍNIO PÚBLICO. NÃO ME RESPONSABILIZO POR FINS LUCRATIVOS DE TERCEIROS.-[COLOR yellow][/COLOR]</info>
@@ -27,3 +27,4 @@ Mas para manter esse projeto vivo e funcionando, precisamos de sua ajuda. Todas 
 </channels> 
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
